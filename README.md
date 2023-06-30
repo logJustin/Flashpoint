@@ -36,6 +36,8 @@ Each test case is automated to ensure the correct response from the PokeApi and 
    npm install
 
 4. Run the tests using the following command:
+
+   ```shell
     npm test
 
 The test suite will be executed, and the results will be displayed in the console.
