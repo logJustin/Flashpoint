@@ -5,7 +5,9 @@
 ## Technologies Used
 
 🚀 JavaScript: A versatile language that integrates seamlessly with web APIs and offers great support for asynchronous operations.
+
 🌐 Axios: A powerful HTTP client for making requests in JavaScript. It simplifies the process and handles response parsing.
+
 ✨ Jest: A JavaScript testing framework that comes with built-in assertion functions, mocking capabilities, and extensive reporting.
 
 ## Test Cases
@@ -40,7 +42,7 @@ To run the tests, follow these steps:
    ```shell
     npm test
 
-   The test suite will be executed, and the results will be displayed in the console.
+The test suite will be executed, and the results will be displayed in the console.
 
 ## Extending the Test Suite
 
